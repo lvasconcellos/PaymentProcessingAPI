@@ -370,3 +370,7 @@ appsettings.*.json
 .vscode/
 *.code-workspace
 codealike.json
+
+# Database files
+*.sqlite
+*.db
